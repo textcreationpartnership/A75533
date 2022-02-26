@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of altering the present oath of allegiance made evident also the declaration signed by above 28000 in Lancashire, when they expected a late French invasion, compared with the association signed in this present Parliament / in a letter to a nobleman.</title>
+            <author>W. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75533</idno>
+            <idno type="STC">Wing A35A</idno>
+            <idno type="STC">ESTC R42793</idno>
+            <idno type="EEBO-CITATION">38875761</idno>
+            <idno type="OCLC">ocm 38875761</idno>
+            <idno type="VID">152157</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152157)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2281:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of altering the present oath of allegiance made evident also the declaration signed by above 28000 in Lancashire, when they expected a late French invasion, compared with the association signed in this present Parliament / in a letter to a nobleman.</title>
+                  <author>W. A.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Salusbury ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[between 1690 and 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: W.A.</note>
+                  <note>Dated at end in ms.: 5th March, 1695/6; Wing (2nd ed.) gives date as 1690.</note>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:152157:1"/>
+            <pb n="1" facs="tcp:152157:1" rendition="simple:additions"/>
+            <head>The Neceſſity of altering the preſent OATH. OF ALLE<g ref="char:EOLhyphen"/>GIANCE made evident: Alſo the DECLARATION Signed by above <hi>28000</hi> in <hi>Lancaſhire,</hi> when they expected a late <hi>French</hi> Invaſion, Compared with the <hi>ASSOCIATION</hi> Signed in this <hi>Preſent Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </head>
+            <head type="sub">In a LETTER to a Nobleman.</head>
+            <p>IF, My Lord, it were poſſible for any private con<g ref="char:EOLhyphen"/>ſideration to add to the ſatisfaction <hi>your Lord<g ref="char:EOLhyphen"/>ſhip</hi> has, in the happy Diſcovery of that Horrid Plot againſt his <hi>Majeſties Perſon,</hi> and <hi>Government,</hi> which is now too big to be Conceal'd; I might believe it would be a particular pleaſure, to be freed from that Character, which Men <hi>of great Moderation in the Cauſe of God and their Countrey,</hi> affix to thoſe, who, believing that the moſt will act according to their avow<g ref="char:EOLhyphen"/>ed Principles, have long deſired to come to a diſtinction who, by Principle, are againſt the Government, and who for it.</p>
+            <p>This the <hi>Houſe of Commons</hi> have done in great Mea<g ref="char:EOLhyphen"/>ſure, by their Voluntary <hi>aſſociation,</hi> in which they have ſet an excellent Example to all Societies of Men among us; and claim the Honour of being before hand with the People; as they, in the time of Queen <hi>Elizabeth,</hi> were with the <hi>Parliament,</hi> which rejoyced to ratify what they worthily did, without ſtanding nicely upon Ancient Forms.</p>
+            <p>But certain is, the Wiſdom of former Ages, has thought no <hi>Publick Aſſociations</hi> ſufficiently <hi>Solemn</hi> with<g ref="char:EOLhyphen"/>out an <hi>Oath,</hi> which invokes <hi>the Almighty</hi> for a Witneſs and Party to what is declared before Men: and they who would not be <hi>Sworn Brethren</hi> to defend the King and Kingdom, were deſervedly accounted <hi>Out-laws,</hi> if not Enemies.</p>
+            <p>Nor need I enquire what your Lordſhip thinks of them, who value the reputation of their <hi>Coat</hi> or <hi>Party,</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> than the ſecurity of our <hi>Religion, Laws,</hi> and <hi>Liber<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and who are ſo blindly partial, as to aſſert it to <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to impoſe the <hi>Sacramental Teſt,</hi> as a means to <hi>pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Peace</hi> by an <hi>uniformity</hi> in what they call <hi>the Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of their Countrey;</hi> and yet will ſacrifice the eſſenti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> our Religion, and a Government, which is the <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Viſible ſecurity for that and us; rather than <hi>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y-men</hi> ſhould be thought to depart from Princi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to be repented of, or to ſuffer for an obſtinate ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing to 'em, againſt Senſe, Conviction, and their <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> practice at the beginning of this <hi>Revolution;</hi> which <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not only <hi>complyed with,</hi> but <hi>courted,</hi> by their greateſt <hi>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ts.</hi>
+            </p>
+            <p>Some <hi>Timerous Politicians</hi> would be againſt Proſecu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g the advantages, which a moſt propitious provi<g ref="char:EOLhyphen"/>dence puts into our Hands; leaſt if our Enemies ſhould prevail, they ſhould profit of the Precedents for their ſecurity, ſet by us. But</p>
+            <list>
+               <item>1. They who always act in fear of their Enemies are never likely to ſubdue 'em.</item>
+               <item>2. The others will never regard Precedents, when they have power of doing miſchief.</item>
+               <item>3. Not to diſable is to encourage 'em, and all gen<g ref="char:EOLhyphen"/>tle uſage to ſuch <hi>Irgenerous Natures,</hi> as appears by <hi>re<g ref="char:EOLhyphen"/>cent experience,</hi> is but warming the Snakes till they get ſtrength to ſting.</item>
+               <item>4. Not to diſarm an Enemy in our power, is a very abſurd effect of fear.</item>
+               <item>5. If that whereby we might diſable the Enemy, relate to <hi>Friviledges;</hi> they who will hazard Life and all, rather than deprive thoſe of the <hi>Priviledges</hi> of <hi>Ergliſh Men,</hi> who juſtly forfeit 'em, are as ill <hi>Patriots</hi> as <hi>Politicians.</hi>
+               </item>
+            </list>
+            <p>Wherefore I take leave here to lay before <hi>your Lordſhip,</hi> an <hi>Abſtract</hi> of thoſe reaſons, which long ſince convinced me, That the Government would be greatly wanting to it ſelf, if it ſhould not preſs for a farther caution for the fidelity of the Subject, than can be had from the Oath of <hi>Allegiance,</hi> appointed by the late Act of Parliament; and that, if they who contri<g ref="char:EOLhyphen"/>buted to the <hi>preſent ſettlement,</hi> or are for the <hi>right</hi> of it, expreſs a fooliſh tenderneſs for thoſe, who ſcruple all Oaths <hi>Declaratory of the Right,</hi> and engaging to <hi>Defend</hi> it; they will deſerve, what has for the moſt part been their fate, to be deſpis'd, and trampled on, whatever ſide is uppermoſt.</p>
+            <p>Upon which occaſion I cannot but apply the Obſer<g ref="char:EOLhyphen"/>vation of Ploughing with an <hi>Ox</hi> and an <hi>Aſs,</hi> to the <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> uſing the Services of the <hi>Tory,</hi> and the <hi>Whigg.</hi>
+            </p>
+            <p>The Oath appointed by the late Act is this.</p>
+            <p>
+               <q>
+                  <hi>I Do ſincerely Promiſe and Swear, That I will be</hi> Faith<g ref="char:EOLhyphen"/>ful, <hi>and bear</hi> True Allegiance <hi>to</hi> Their Majeſties, <hi>King</hi> William <hi>and Queen</hi> Mary.</q>
+            </p>
+            <p>Upon which I may obſerve.</p>
+            <list>
+               <item>1. That this Oath is conceived in fewer Terms, than ever any Oath to the Government, required at Common Law, or by Statute.</item>
+               <item>2. The Omiſſions are very material; and ſeem to have been contriv'd by ſome to leave themſelves and their Friends a deſign'd Latitude, by others to draw Men in to Swear <hi>Allegiance,</hi> and to urge the true Import of the Oath upon them, who might think themſelves under no Obligation to defend this Government, not<g ref="char:EOLhyphen"/>withſtanding the Oath; for that</item>
+               <pb n="2" facs="tcp:152157:2"/>
+               <item> 3. The Common Law Oath of <hi>Fidelity,</hi> and thoſe which have been Enacted by any former Statute, al<g ref="char:EOLhyphen"/>ways required <hi>Defence</hi> of the <hi>King</hi> or <hi>Queen for the time being;</hi> and acknowledged their <hi>Right</hi> to Govern, either in expreſs Terms, or by plain Implication. The O<g ref="char:EOLhyphen"/>miſſion of which, ſome have urged as an Argument, that the <hi>Allegiance</hi> Sworn to the <hi>Late King,</hi> was never intended to be alter'd or touch'd by this Oath.</item>
+               <item>4. Many have openly. declared, that they have Sworn to this Government, not only without regard to its <hi>Right,</hi> but with a belief that the <hi>Right</hi> remains in <hi>King James.</hi> This Colluſion is juſtified by the wri<g ref="char:EOLhyphen"/>tings of Men of the greateſt Authority among them; and that not only of the preſent, but paſt Age; parti<g ref="char:EOLhyphen"/>cularly of Sir <hi>Robert Filmer,</hi> and <hi>Biſhop Sanderſon;</hi> whoſe dictates are never diſputed by that ſet of Men.</item>
+               <item>5. That in Conſequence of ſuch belief, there can be no ſecurity in the words of ſuch an Oath, might ap<g ref="char:EOLhyphen"/>pear from the Nature of the thing, and does evident<g ref="char:EOLhyphen"/>ly, from thoſe <hi>dictates;</hi> according to which, ſome miſ<g ref="char:EOLhyphen"/>led Men believe, they may take the preſent Oath, and yet not only with ſome Men, queſtion whoſe commiſ<g ref="char:EOLhyphen"/>ſion they ought to obey when <hi>King Williams,</hi> and <hi>King James</hi>'s interfere; but are poſitive, that they ought to obey <hi>King James,</hi> and are not to ſerve <hi>King William</hi> farther than they may preſume the conſent of their <hi>King</hi> of <hi>Right.</hi>
+               </item>
+               <item>6. If upon theſe accounts the Oath appears defective, not to obviate the known and common evaſion, would imply great neglect of the ſafety of a Government, which has done ſo much to make Men ſafe un<g ref="char:EOLhyphen"/>der it.</item>
+               <item>7. Parliaments in ſeveral Ages have found it expe<g ref="char:EOLhyphen"/>dient, to Swear the Subjects to maintain the <hi>Eſtabliſh'd Succeſſion of the Crown:</hi> whereby great confuſions have been prevented upon the Deaths of Princes.</item>
+               <item>8. The Oath in Queſtion is now only Perſonal to his <hi>Preſent Majeſty;</hi> and they who deny his Right, not<g ref="char:EOLhyphen"/>withſtanding their Oath to bear <hi>true Allegiance</hi> to him; would certainly upon his Deceaſe, think themſelves at liberry to declare for <hi>King James,</hi> or the Prince of <hi>Wales,</hi> in excluſion of <hi>Princeſs Ann,</hi> and her Iſ<g ref="char:EOLhyphen"/>ſue.</item>
+               <item>9. Conſequently, tho' <hi>His Majeſty</hi> may be ſecured of the Loyalty of many who take the Oath; they not being ſubtle enough to underſtand the thin-ſpun evaſions with which others ſeem to quiet their Conſciences, or to keep up their Reputation; all that wiſh well to the <hi>Princeſs,</hi> and indeed to the Peace of this Kingdom are bound to uſe their endeavours for another Oath of <hi>Allegiance.</hi>
+               </item>
+               <item>10. It being generally agreed that Oaths ought to be taken in the ſenſe of the Impoſers, and the Parliament which enjoyned the Oath having recognized his Maje<g ref="char:EOLhyphen"/>ſties Right, together with the late Queen; honeſt Men could not with any colour of Reaſon, ſcruple an Oath declaratory of the Right, more than they do the pre<g ref="char:EOLhyphen"/>ſent Oath.</item>
+               <item>11. An Oath more expreſs were requiſite, if it were only to acold that material Perjury, into which too many run, in taking the preſent Oath in a ſenſe dire<g ref="char:EOLhyphen"/>ctly contrary to the plain intention of the Law<g ref="char:EOLhyphen"/>makers.</item>
+               <item>12. It is to be conſidered, That there is no Act of Parliament for the Oath to his Majeſty alone: but the ſubject matter fayling as to her late Majeſty, the in<g ref="char:EOLhyphen"/>tendment of Law is ſuppoſed to authorize the preſent Oath, which may not be ſo ſatisfactory to nice Forma<g ref="char:EOLhyphen"/>lizers, as a New Oath declaratory of the Right, and obli<g ref="char:EOLhyphen"/>ging to adefence of the ſettlement.</item>
+               <item>13. All the Declaration againſt rebellion required by the late Act, is only againſt the King, not naming his Majeſty King <hi>William:</hi> So that the Men who will have the <hi>late King,</hi> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ill to be <hi>Rightful King,</hi> muſt according to the principie of moſt of 'em, (except ſuch as hold <hi>Non-reſiſtance,</hi> to be all that can be required by the So<g ref="char:EOLhyphen"/>vereign Power) think themſelves bound to take Arms againſt <hi>King William,</hi> whenever they have an inviting opportunity and Commiſſion from <hi>King James.</hi> Which makes it highly reaſonable, if not, neceſſary, to diſtin<g ref="char:EOLhyphen"/>guiſh 'em from them, who are reſolved to do their Duty in Fighting in Defence of <hi>King William,</hi> and the Succeſſion by Law Eſtabliſh'd.</item>
+               <item>14. An Oath to Defend the preſent Government, and in effect to declare it <hi>Lawful</hi> and <hi>Rightful,</hi> is yet in force at Common Law; ought to be generally en<g ref="char:EOLhyphen"/>forced at <hi>Leets</hi> and elſewhere; and may be required of all the Subjects by ſpecial Commiſſion. Wherefore an Oath expreſly declaring the Right, would induce no<g ref="char:EOLhyphen"/>thing new; unleſs in the penalty for refuſal.</item>
+               <item>15. Allegiance to the Prince, is in its own Nature, the Duty of <hi>Loyal</hi> or <hi>Liege</hi> Subjects to their <hi>Liege Lord,</hi> and is founded upon his Right to the Government, or being <hi>Lawful</hi> and <hi>Rightful King.</hi> As there<g ref="char:EOLhyphen"/>fore whoever Swears Allegiance to his Majeſty, virtually acknowledges his Right; he that ſhall refuſe to Swear to the Right, when duly required, will effe<g ref="char:EOLhyphen"/>ctually ſhew <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat he reſolves not to pay the Allegiance which is due.</item>
+               <item>16. Allegiance at Common Law, binds to the Defence of the Kingdom as well as the King; and therefore the Subjects of this Realm, are in a double reſpect under an Allegiance contrary to any pretence of Right in the Late King.</item>
+               <item>17. It having been duly and Authoritatively de<g ref="char:EOLhyphen"/>clared, that the Late King had broken the Original contract between Prince and People; and his Majeſty King <hi>William</hi> having been in like manner declared King; there is as much reaſon to Swear that his Pre<g ref="char:EOLhyphen"/>ſent Majeſty is <hi>Lawful</hi> and <hi>Rightful King,</hi> as there ever was to take the like Oath to <hi>J.</hi> I. <hi>C.</hi> I. <hi>C.</hi> II. and <hi>J.</hi> II.</item>
+               <item>18. An Oath expreſly <hi>Abnegatory</hi> of any pretence in the <hi>Late King,</hi> is fully as Juſt, and as expedient, as the Oaths required in ſeveral Reigns, declaring a<g ref="char:EOLhyphen"/>gainſt the pretended Authority of the <hi>See of Rome,</hi> or of any <hi>Forreign Prince, or Potentate.</hi>
+               </item>
+               <item>19. As Cowardice, or ſome mighty expectations upon a Change, rarher than Conſcience, muſt be thought to have made many backward to acknowledge his <hi>Majeſties Right;</hi> if the preſent Power ſhould not work upon Men's hopes aad fears, more than a Power in a <hi>Remote,</hi> and, as it is to be hoped, <hi>Vain poſſibility;</hi> it would argue great neglect, or treachery ſome<g ref="char:EOLhyphen"/>where.</item>
+               <item>20. If fear be more prevalent than ſenſe of Duty, it were to be thought that Men ſhould ſecretly deſire to be under the obligation of an Oath, expreſly requi<g ref="char:EOLhyphen"/>ring the Defence of the ſettlement; that if a Change ſhould happen, they might plead neceſſity in excuſe of their honeſt endeavours to have prevented it.</item>
+               <item>21. By the Law of God, and of Nations, as well as of this Land, the Obligation of <hi>Protection</hi> and <hi>Defence</hi> is reciprocal; and the Subjects are as much obliged to <hi>Defend</hi> their <hi>Prince,</hi> as he to <hi>Protect</hi> his <hi>Subjects.</hi> But the Doctrine of <hi>Non-aſſiſtance,</hi> or of <hi>Obedience</hi> meerly <hi>Paſſive</hi> is New, and of pernicious conſequence, ſuited to the late Doctrine of <hi>providence,</hi> or, <hi>of God's ways of Diſpoſing of Kingdoms;</hi> which makes Allegiance as un<g ref="char:EOLhyphen"/>certain as the events of War, or publick counſels.</item>
+               <item>22. An Oath by which few, if any, think themſelves obliged to more than they would certainly do without any Oath; is in effect to have none; but to have none were to condemn the Wiſdom and Experience of all Ages.</item>
+            </list>
+            <p>I ſhould not think it enough barely to aſſert ſo many propoſitions, were it not for a Labour'd Treatiſe pub<g ref="char:EOLhyphen"/>liſh'd <hi>An.</hi> 1694. making evident from Records, Hiſtory and Law Books, all that may ſtand in need of proof upon this Subject, and anſwering the moſt plauſible Obje<g ref="char:EOLhyphen"/>ctions againſt ſuch an Oath, as is here contended for.</p>
+            <p>Upon the whole, to engage by Oath to defend his <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Perſon, and maintain the Act of Settlement, would be ſo far from engaging to Fight againſt <hi>God</hi>'s <hi>Providence,</hi>
+               <pb n="3" facs="tcp:152157:2"/>that to refuſe it, would argue a diſtruſt of <hi>Providence:</hi> and to incur the imputation of being againſt the <hi>Pre<g ref="char:EOLhyphen"/>ſent Government,</hi> rather than diſoblige any Body, who poſſibly may come into power; were in Truth to oppoſe that <hi>Providence,</hi> which has made the preſentſettle<g ref="char:EOLhyphen"/>ment, and is likely to protect us in the diſcharge of our Duty to it.</p>
+            <p>For the Government to require ſuch an Oath, would be ſo far from implying its being in as deſperate a condition, as a Papiſt brought to <hi>Extream <g ref="char:V">Ʋ</g>nction;</hi> That on the other ſide, to decline it, would argue an unſoundneſs in ſome Vital Part, and ſuch a weakneſs as will not admit of a gentle Purge.</p>
+            <p>This would be far from obliging Men to Swear to a <hi>moot point,</hi> as poſſibly, ſome of ſuperficial knowledge in our Conſtitution may hold; while they, with all their Sophiſtry, can never reconcile their two <hi>contrary Allegiances,</hi> to the Law of God, or of this Land, or to common ſenſe.</p>
+            <p>If the example of general Inſurrections in former Ages be urged, to ſhew the inſecurity of the moſt ex<g ref="char:EOLhyphen"/>preſſive Oaths of Allegiance, it is to be conſide<g ref="char:EOLhyphen"/>red.</p>
+            <list>
+               <item>1. That moſt, if not all of 'em, were in Defence of the Kingdom: which comes not within the preſent Queſtion.</item>
+               <item>2. It may eaſily be prov'd, that few if any of 'em, have been againſt any King till he, by the <hi>Corſtitution of this Monarchy, ceaſed to be King.</hi>
+               </item>
+               <item>3. No Riſing againſt any Government, which never had Legal Settlement, and had no other foundation but Force, can come within this Queſtion; the obligation continuing no longer than the Force did; which is a full anſwer to the rejecting the Protector <hi>Richard Crom<g ref="char:EOLhyphen"/>well,</hi> after Oaths to him; yet if <hi>Oliver</hi> had lived ſome years longer, the Reſtoration of <hi>C.</hi> II. would have been morally impoſſible.</item>
+               <item>4. Inſurrections in <hi>England</hi> have rarely ſucceeded without Foreign aſſiſtance, and the Nation ought to take care to encourage Generous <hi>Deliverers,</hi> by ſhew<g ref="char:EOLhyphen"/>ing as much forwardneſs to act for them, as they to Reſcue the People from Tyranny.</item>
+            </list>
+            <p>But if the prefent Oath be leſs expreſſive of the Da<g ref="char:EOLhyphen"/>ty of the Subject, than any ever yet known; If it is noto<g ref="char:EOLhyphen"/>riouſly evaded and rendred inſignificant; why ſhould this Government be leſs ſecured, and more reflected on, than our Law ever hitherto allow'd? Is it for want of Right? then indeed, it might well be ſayd, <hi>Let us repent of our former Oaths, rather than take New:</hi> For it is evident, that all Oaths of Allegiance are Founded upon the Sup<g ref="char:EOLhyphen"/>poſition of <hi>Right to Govern.</hi> Is it becauſe the <hi>late King</hi>'s pretence of Right is ſupported by <hi>France?</hi> This cer<g ref="char:EOLhyphen"/>tainly would be the greater argument for a farther Oath, to ſhew that we are Enemies to <hi>France,</hi> as we pre<g ref="char:EOLhyphen"/>tend to be. And they who refuſe this when the <hi>French</hi> threaten an Invaſion, encourag'd by a barbarous Plot to <hi>Aſſaſſinate</hi> his <hi>Majeſty,</hi> may thank themſelves if they are treated as Enemies.</p>
+            <p>That many ſhould reuſe ſuch an Oath, when duly enforced, there is not the leaſt ſhadow of reaſon to believe; and if it ſhould be taken by ill Men, who ſeem unalterably attach'd to the <hi>Late Kings pretended Right,</hi> the very taking the Oath would break all confidence between them and their Old Party, diſable 'em from ſerving that ſide; and inſenſibly draw 'em to Act in good earneſt, according to the apparent obligation of their Oath, and their trueſt Intereſt.</p>
+            <p>I know it is often urged, that Oaths bind none but honeſt Men; yet it cannot be doubted but many who would be thought ſuch, would be bound, rather than loſe the advantages they now enjoy, while they ſhame<g ref="char:EOLhyphen"/>fully keep off from the Cauſe of God and their Coun<g ref="char:EOLhyphen"/>trey; thinking it a commendable piece of wiſdom to attend the <hi>events of providence,</hi> rather than to uſe means to preſerve that Peace and ſecurity to our Religion, which providence has ſettl'd among us.</p>
+            <p>If all the honeſt Men, who are <hi>Lovers of their Coun<g ref="char:EOLhyphen"/>trey,</hi> and of the <hi>Preſent Government,</hi> to which they owe the Reſtitution of its <hi>Laws</hi> and <hi>Liberties,</hi> had ſufficient means to diſtinguiſh themſelves from thoſe who ſeek for a New <hi>Revolution;</hi> I am perſuaded, That which looks like a formidable Party, through the weakneſs of ſome who give acceſſion to their own Ruin, would be ſhamed out of its perverſneſs.</p>
+            <p>Tho' the Peoples Zeal for a <hi>Proteſtant Queen,</hi> put 'em upon a voluntary <hi>Aſſociation,</hi> to ſtand by one ano<g ref="char:EOLhyphen"/>ther in the defence of <hi>Her,</hi> and their Religion: Which was afterwards ratified in <hi>Parliament:</hi> Yet it muſt be confeſſed, That for the moſt part it were deſirable, that the Effects of ſuch Zeal ſhould be prevented, by a pru<g ref="char:EOLhyphen"/>dent anticipation.</p>
+            <p>Certain it is, <hi>Your Lordſhip,</hi> and the numbers of <hi>Nobi<g ref="char:EOLhyphen"/>lity,</hi> and <hi>Gentry,</hi> with the <hi>Body of the common People,</hi> who are for maintaining the <hi>Act of Settlement,</hi> will not tamely give it up: But had much rather know before<g ref="char:EOLhyphen"/>hand, <hi>who and who are together.</hi> But will it ever be be<g ref="char:EOLhyphen"/>lieved in Story, That any who were inſtrumental in the late <hi>Revolution,</hi> and <hi>Settlement,</hi> and are, by Principle, for the <hi>Right</hi> of this Government, ſhould be againſt ma<g ref="char:EOLhyphen"/>king it the Intereſt of others, to acknowledge that Right? Can they neglect the <hi>Providence,</hi> which would give Authority to their Opinions, if they themſelves did not fight againſt it? Becauſe Men, who come reek<g ref="char:EOLhyphen"/>ing with the Blood of the beſt of our <hi>Patriots</hi> upon 'em, now ſet up for a <hi>Country Party;</hi> ſhall the Sons or Friends of the <hi>Martyrs for their Country,</hi> be charm'd out of their Senſes; to find thoſe <hi>Sauls among the Prophets?</hi>
+            </p>
+            <p>This hot fit will ſoon be over, and give way to that other Rage, which has long plagued this Nation; and now ſeems the choice of thoſe very Men, who have ſuffer'd moſt under it.</p>
+            <p>I can hardly think 'em ſo weak, to imagine that this <hi>new Country Party,</hi> ſpawn'd from the Corruption of former Reigns, ſhould help to eſtabliſh them at the Helm.</p>
+            <p>And I may add, That to dream of this were much more abſurd, than the Expectation of the <hi>Tories,</hi> to engroſs Preferments upon the return of the <hi>late King,</hi> or ſetting up the pretended Prince of <hi>Wales,</hi> with Prote<g ref="char:EOLhyphen"/>ſtant <hi>Tutors,</hi> and <hi>Regents.</hi>
+            </p>
+            <p>Yet I cannot but hope, to ſee them convinced of the Vanity of ſuch Expectations, by the eſtabliſhment of an <hi>Oath</hi> to maintain the <hi>Act of Settlement.</hi>
+            </p>
+            <p>In which, that there would be the entire Concur<g ref="char:EOLhyphen"/>rence of the Body of this Nation; beſides other Ar<g ref="char:EOLhyphen"/>guments, may appear, from the unanimity of the Pro<g ref="char:EOLhyphen"/>teſtants of <hi>Lancaſhire;</hi> who, tho' the <hi>Papiſts</hi> there pre<g ref="char:EOLhyphen"/>tend to almoſt equal Numbers, yet at the very time when our Fleet retired from before the <hi>French,</hi> who were dayly expected to land, chearfully ſubſcribed the following <hi>Declaration:</hi> By which they look'd upon themſelves as liſted for His <hi>Majeſty's Service:</hi> As we are to preſume they do, who have ſubſcribed the <hi>Aſſo<g ref="char:EOLhyphen"/>ciation</hi> made by this Houſe of <hi>Commons:</hi> Both which I here ſet in diſtinct Columns, becauſe of their reſem<g ref="char:EOLhyphen"/>blance to each other.</p>
+            <q>
+               <pb n="4" facs="tcp:152157:3" rendition="simple:additions"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>To the King and Queen's moſt Excellent Majeſty. The humble Declaration of the Nobility, Gentry, Militia, and Commonal<g ref="char:EOLhyphen"/>ty of the County Palatine of <hi>Lancaſter.</hi>
+                        </head>
+                        <p>
+                           <q>WE Your Majeſties moſt dutiful and obedient Subjects, being fully ſatisfied in our Con<g ref="char:EOLhyphen"/>ſciences, That Your Majeſties are <hi>the Lawful and Rightful King and Queen</hi> of theſe Realms; and <hi>ab<g ref="char:EOLhyphen"/>horring their Principles,</hi> who, <hi>either refuſe to ſwear Al<g ref="char:EOLhyphen"/>legiance</hi> to Your Majeſties; or, if they have ſworn, declare, they are not bound <hi>to aſſiſt</hi> Your Majeſties; in conſequence of which, it is too evident, that there has been <hi>great Treachery</hi> in many of Your Majeſties Subjects; Therefore do declare, That we are ready and reſolv'd to draw our Swords, and venture our Lives and Eſtates, in Defence of Your Majeſties Per<g ref="char:EOLhyphen"/>ſons and Government, againſt all the Force of Foreign Enemies, and of them at Home, who, that their Plot might paſs unobſerved, have traduced Your Ma<g ref="char:EOLhyphen"/>jeſties moſt Loyal Subjects, as deſigning a <hi>Common<g ref="char:EOLhyphen"/>wealth:</hi> but have made it manifeſt, that themſelves were for the <hi>French Monarchy</hi> and <hi>King:</hi> who by the evil Counſels of Men, thinking of nothing more than to enſlave their Country, has been taught and ena<g ref="char:EOLhyphen"/>bled to build Ships, and to arrive to that Power, which has brought ſo many Calamities upon Your Majeſtics Dominions: From which we are delivered, through the Reſolution and Wiſdom of Your Maje<g ref="char:EOLhyphen"/>ſties, in an extraordinary manner, bleſs'd by God, and admired by Your Subjects; in whoſe Hearts Your Ma<g ref="char:EOLhyphen"/>jeſties entirely reign.</q>
+                        </p>
+                        <p>☜ <hi>This</hi> Declaration <hi>was ſubſcribed by above Twenty eight Thouſand Perſons, and preſented by the Earl of</hi> Mac<g ref="char:EOLhyphen"/>clesfeld, <hi>whom they would readily have followed into the Field.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>The Aſſociation, ſubſcribed by near Four Hundred Members of the Houſe of Com<g ref="char:EOLhyphen"/>mons.</head>
+                        <p>
+                           <q>WHereas there has been a horrid and deteſtable Conſpiracy, formed and carried on by Pa<g ref="char:EOLhyphen"/>piſts, and other wicked and traiterous Per<g ref="char:EOLhyphen"/>ſons, for Aſſaſſinating His Majeſties Royal Perſon, in order to incourage an Invaſion from <hi>France,</hi> to ſub<g ref="char:EOLhyphen"/>vert our Religion, Laws, and Liberties: We whoſe Names are hereunto ſubſcribed, do heartily, ſincere<g ref="char:EOLhyphen"/>ly, and ſolemnly, profeſs, teſtifie, and declare, That His preſent Majeſty, King <hi>WILLIAM,</hi> is <hi>Rightful</hi> and <hi>Lawful King</hi> of theſe Realms. And we do mutu<g ref="char:EOLhyphen"/>ally Promiſe and Engage, to ſtand by, and aſſiſt each other, to the utmoſt of our Power, in the Sup<g ref="char:EOLhyphen"/>port and Defence of His Majeſty's moſt Sacred Perſon and Government, againſt the <hi>late King James,</hi> and all his Adherents. And in caſe His Majeſty come to any violent or untimely Death (which God for<g ref="char:EOLhyphen"/>bid) we do hereby further, freely, and unanimouſly oblige our ſelves, to unite, aſſociate, and ſtand by each other, in Revenging the ſame upon His Ene<g ref="char:EOLhyphen"/>mies, and their Adherents; and in Supporting and Defending the Succeſſion of the Crown; according to an Act made in the Firſt Year of the Reign of King <hi>William</hi> and Queen <hi>Mary,</hi> intituled, <hi>An Act declaring the Rights and Liberties of the Subjects, and Settlirg the Succeſſion of the Crown.</hi>
+                           </q>
+                        </p>
+                        <p>
+                           <hi>Since which, the whole</hi> Houſe <hi>of</hi> Peers. <hi>except</hi> 11 Tem<g ref="char:EOLhyphen"/>poral <hi>and</hi> 2 Spiritual Lords, <hi>have ſubſcribed an</hi> Aſſociation <hi>much the ſame.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>SUch indeed is the Vertue of the Common Men of <hi>England,</hi> That Danger but unites and ſtirs 'em up, for acting in the Defence of the Kingdom.</p>
+            <p>And I muſt ſay, the Nobility eſpecially, are in In<g ref="char:EOLhyphen"/>tereſt as well as Gratitude, obliged to do their utmoſt to preſerve a Government, which has reſtored to them that Security, in relation to their Trials, which they had been deprived of from the time of <hi>Hen.</hi> VII. and which muſt ſtand and fall with the <hi>Act of Settlement.</hi>
+            </p>
+            <p>If either the King, or Princeſs <hi>Ann,</hi> ſhould be indif<g ref="char:EOLhyphen"/>ferent in this Matter, preſuming upon the Affections of the People; I am ſure they, who wiſh well to <hi>En<g ref="char:EOLhyphen"/>gland,</hi> ought to look upon it as their Concern: Such an Oath being as neceſſary for their Safety, as it can be either for His <hi>Majeſty,</hi> or the <hi>Princeſs.</hi>
+            </p>
+            <p>In whoſe undivided Intereſt, that a true Love for your Country, has ſettled your Lordſhip's Judgment, muſt be believed by all, who have the Honour to Con<g ref="char:EOLhyphen"/>verſe with <hi>Your Lordſhip;</hi> But by no Man with more firm Grounds of Certainty, than by</p>
+            <closer>
+               <salute>(<hi>My</hi> LORD,)</salute>
+               <lb/>
+               <signed>
+                  <hi>Your Lordſhip's moſt Faithful<lb/> Humble Servant.</hi>
+                  <lb/> W. A.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> John Salusbury, <hi>at the</hi> Riſing-Sun <hi>in</hi> Cornhil.</p>
+            <pb facs="tcp:152157:3" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
